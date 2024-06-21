@@ -4,5 +4,6 @@
 ###### demo01
 *****
 <p align="left">
-<img src="https://github.com/sxm5220/demoByFlame/blob/master/pages/d1/01.png" width="200" alt="截图" />
+<img src="https://github.com/sxm5220/demoByFlame/blob/main/pages/d1/01.png" width="200" alt="截图" />
 </p>
+
